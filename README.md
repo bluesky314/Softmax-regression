@@ -1,2 +1,2 @@
 # Softmax-regression
-Softmax Regression on India Pines Dataset
+Softmax Regression on India Pines Dataset in numpy
